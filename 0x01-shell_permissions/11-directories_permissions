@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -d ./* | xargs ugo+x chmod 
+ls -d ./* | xargs chmod ugo+x 
