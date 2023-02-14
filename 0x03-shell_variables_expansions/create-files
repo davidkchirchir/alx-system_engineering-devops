@@ -1,0 +1,17 @@
+#!/bin/bash
+
+cp basic-file 0-alias
+cp basic-file 1-hello_you
+cp basic-file 2-path
+cp basic-file 3-paths
+cp basic-file 4-global_variables
+cp basic-file 5-local_variables
+cp basic-file 6-create_local_variable 
+cp basic-file 7-create_global_variable
+cp basic-file 8-true_knowledge
+cp basic-file 9-divide_and_rule
+cp basic-file 10-love_exponent_breath
+cp basic-file 11-binary_to_decimal
+cp basic-file 12-combinations
+cp basic-file 13-print_float
+
